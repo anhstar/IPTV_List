@@ -1,15 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 06/03/15 @ 14:38 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 14/04/15 @ 14:38 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Canada Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
-http://www.youtube.com/user/hmemar22
+
+
+#EXTINF:-1, [COLOR yellow]TVA[/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#?EXTINF?:-1,i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,BFMTV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,chkg tdf cdn
+http://chkg.tdf-cdn.com/5707/stream1.m3u8
+#EXTINF:-1,arte
+http://frlive.artestras.cshls.lldns.net/…/f…/frlive_925.m3u8
+#EXTINF:-1,PTC
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+#EXTINF:-1,RTC
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#EXTINF:-1,KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#EXTINF:-1,OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1,ROUGE TV CH
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,Flava
+http://212.70.155.243:40665/udp/237.100.0.173:4000
+#EXTINF:-1,Bliss
+http://212.70.155.243:40665/udp/237.100.0.174:4000
+#EXTINF:-1,Scuzz
+http://212.70.155.243:40665/udp/237.100.0.175:4000
+#EXTINF:-1,Chart Show Dance
+http://212.70.155.243:40665/udp/237.100.0.176:4000
+#EXTINF:-1,True Movies
+http://212.70.155.243:40665/udp/237.100.0.177:4000
+#EXTINF:-1,True Movies 2
+http://212.70.155.243:40665/udp/237.100.0.178:4000
+#EXTINF:-1,Tiny Pop
+http://212.70.155.243:40665/udp/237.100.0.179:4000
+#EXTINF:-1,Starz
+http://212.70.155.243:40665/udp/237.100.0.180:4000
+#EXTINF:-1,Pop
+http://212.70.155.243:40665/udp/237.100.0.181:4000
+#EXTINF:-1,Tiny Pop+1
+http://212.70.155.243:40665/udp/237.100.0.182:4000
+#EXTINF:-1,Kix
+http://212.70.155.243:40665/udp/237.100.0.183:4000
+#EXTINF:-1,The Vault
+http://212.70.155.243:40665/udp/237.100.0.184:4000
+#EXTINF:-1,Pop Girl
+http://212.70.155.243:40665/udp/237.100.0.185:4000
+#EXTINF:-1,Chart Show TV
+http://212.70.155.243:40665/udp/237.100.0.187:4000
+#EXTINF:-1,Pop +1
+http://212.70.155.243:40665/udp/237.100.0.188:4000
+#EXTINF:-1,True Entertainment
+http://212.70.155.243:40665/udp/237.100.0.189:4000
+#EXTINF:-1,True Drama
+http://212.70.155.243:40665/udp/237.100.0.190:4000
 
 #EXTINF:-1, CHCH
 rtmp://54.85.197.21:1935/live playpath=news swfUrl=http://www.chch.com/wp-content/plugins/projekktorvm/src/StrobeMediaPlayback.swf?enableStageVideo=true&disableHardwareAcceleration=false&javascriptCallbackFunction=window.projekktorOSMFReadyad859d51e580abcf06b7185b94a962fa& pageUrl=http://www.chch.com/live/ 
