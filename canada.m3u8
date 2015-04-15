@@ -18,7 +18,8 @@ rtmp://cp101680.live.edgefcs.net/live/livev_1@50832/master.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1 tvg-logo="lcn.png" tvg-id="I39.28455439.microsoft.com" tvg-name="LCN" group-title="Franco",LCN 16:9
 rtmp://cp39414.live.edgefcs.net/live playpath=lcn1@9753 swfVfy=true live=true
-
+#EXTINF:-1, [COLOR yellow]Argent[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live playpath=argent@9751 swfVfy=true live=true
 
 #EXTINF:-1,BFMTV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
