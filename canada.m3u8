@@ -2,11 +2,9 @@
 
 #EXTINF:-1, [COLOR yellow]Updated 14/04/15 @ 14:38 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Canada Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
+#EXTINF:12.2,
+http://m3.mytvnet.vn/pkg1/channels/vstv053/high/high-1386168622.ts?c=vstv053&q=high&token=KRwAE-jXmz5Sw1QE3EHP3w&type=tvlive-seg&pkg=pkg1&zn=&gcId=&userId=&deviceId=&location=&p=0
 
 #EXTINF:-1, [COLOR yellow]TVA[/COLOR]
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
