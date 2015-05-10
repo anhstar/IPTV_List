@@ -6,4 +6,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 rtmp://cp39414.live.edgefcs.net/live playpath=argent@9751 swfVfy=true live=true
 #EXTINF:-1 tvg-logo="6418023.png" tvg-id="FoodNetwork" tvg-name="Food Network", Food Network
 http://50.7.69.186:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
-
+#EXTINF:-1 tvg-logo="6418023.png" tvg-id="FoodNetwork" tvg-name="Food Network", Food Network 1
+http://142.4.216.60:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022&xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0MTk5MDkwMjJ8NzIuMjcuMjE0LjMzfDU0YTE4YWZlNzAwMGJ8Y2FkMmFlNzUyZmRkYWM3NjIzYjA2MDM2ZWRlY2FlMDlmMjBhYmQzZg timeout=10
