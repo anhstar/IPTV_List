@@ -5,5 +5,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1, [COLOR yellow]Argent[/COLOR]
 rtmp://cp39414.live.edgefcs.net/live playpath=argent@9751 swfVfy=true live=true
 #EXTINF:-1 tvg-logo="6418023.png" tvg-id="FoodNetwork" tvg-name="Food Network", Food Network
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+http://50.7.69.186:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
 
